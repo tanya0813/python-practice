@@ -4,3 +4,4 @@ This repo contains my Python practice journey 🚀 Divided into 3 levels:  Begin
 - Day 1 Calculator 
 -Day 2 Number guessing game
 -Day 3 Password generator 
+-Day 4 Word counter from text file
