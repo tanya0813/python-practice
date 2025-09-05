@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on 
+creating machines and systems capable of performing tasks that usually require
+human intelligence. These tasks include learning, problem-solving, decision-making,
+speech recognition, and image processing. AI works by using large amounts of data,
+algorithms, and computing power to identify patterns and make predictions or 
+decisions. It is widely used today in various fields such as healthcare, finance, 
+education, transportation, and entertainment. From voice assistants like Siri and 
+Alexa to self-driving cars and advanced medical diagnosis, AI is transforming the 
+way we live and work, making processes faster, smarter, and more efficient.
