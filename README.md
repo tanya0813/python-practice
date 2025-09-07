@@ -5,3 +5,4 @@ This repo contains my Python practice journey 🚀 Divided into 3 levels:  Begin
 -Day 2 Number guessing game
 -Day 3 Password generator 
 -Day 4 Word counter from text file
+-Day 5 Rock,paper,scissors game
